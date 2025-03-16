@@ -4,7 +4,7 @@ This research is published on IEEE, RA-L. (To-be, IROS 2025)
 [link](https://doi.org/10.1109/LRA.2025.3536222)
 
 ### Author
-: Seungyeon Ha, Seongyong Kim, Soo-Chul Lim
+: **Seungyeon Ha(justhash-kr)**, Seongyong Kim, Soo-Chul Lim
 
 
 ### Video
